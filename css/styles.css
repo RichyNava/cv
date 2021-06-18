@@ -1,0 +1,116 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+
+hr{
+  height: 0;
+  background-color:#CDF0EA;
+}
+.title{
+  padding-bottom: 0.1em;
+  margin-bottom: 0;
+}
+h1{
+  margin-top: 0;
+  color: black;
+  font-family: 'Sacramento',cursive;
+  font-size: 3.95em;
+}
+.catch{
+  font-size: 125%;
+}
+h2{
+  font-family: 'Montserrat',serif;
+  font-size: 2.9em;
+}
+p{
+  color: black;
+  font-family: 'monserrat',serif;
+}
+.top{
+  margin-top: 0;
+  background-color: #CDF0EA;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 1%;
+  height: 622px;
+}
+.pag2{
+  background-color: #CDF0EA;
+  padding-top: 1%;
+  width: 100%;
+  height:565px;
+}
+.nube2{
+  position: relative;
+  left: 15%
+}
+.tabla{
+  position: relative;
+margin-left: 0;
+left: 11%;
+}
+.nube1{
+  position: relative;
+  right: 20%;
+}
+.letter{
+  position: relative;
+  width: 2.5%;
+}
+.middle{
+  height: 960px;
+  width: 100%;
+  background-color: #F9F9F9;
+}
+
+
+.bottom{
+  padding-top: 1%;
+  height:305px;
+  width:100%;
+  background-color:#F6C6EA;
+
+}
+.topcloud{
+  position: relative;
+  left: 25%;
+
+}
+.mountain{
+  position: relative;
+  width: 55%;
+  bottom: 5.1%;
+}
+.bottomcloud{
+  position: absolute;
+  top: 150px;
+  left: 20%;
+}
+
+.imageprof{
+  position: relative;
+  width: 10%;
+}
+
+
+.html{
+  position: relative;
+  width: 10%;
+  right: auto;
+  left: auto;
+}
+.javascript{
+  position: relative;
+  width: 10%;
+}
+.css{
+  position: relative;
+  width: 10%;
+}
+.bootstrap{
+  position: relative;
+  width:10%;
+}
